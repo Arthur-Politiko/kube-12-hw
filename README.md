@@ -102,7 +102,7 @@ kubectl port-forward -n test pod/netology-web 8080:8080
 ```
 
 Результат: 
-![answer](./img/12-02-02.png)
+![answer](./img/12-02-01.png)
 
 
 ### Задание 2. Создать Service и подключить его к Pod
